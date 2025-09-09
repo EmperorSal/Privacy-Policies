@@ -1,0 +1,1 @@
+This extension does not collect, store, or share any data of any sort. This extension works only on local host
