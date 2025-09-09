@@ -1,1 +1,7 @@
-This extension does not collect, store, or share any data of any sort. This extension works only on local host
+Privacy Policy:
+
+This extension does not collect, store, or share any data of any sort.
+All functionality runs locally and only interacts with your localhost environment.
+No information is transmitted, logged, or shared externally.
+
+By using this extension, you acknowledge that it is provided “as is” without warranty of any kind. The developer assumes no liability for any damages, losses, or issues arising from its use.
